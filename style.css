@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    
+}
+form{
+    display:flex;
+    flex-direction: column;
+    max-width: 200px;  
+    gap:10px;
+    margin:0 auto;/*0 eje vertical, auto eje horizontal*/
+
+}
+
+input{
+    padding:7px;
+}
+
